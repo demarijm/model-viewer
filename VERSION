@@ -1,0 +1,5 @@
+commit 5d5ee8f4bb740379b7edbe7605786ce3b22a5733
+Author: Emmett Lalish <elalish@google.com>
+Date:   Mon Aug 8 16:26:22 2022 -0700
+
+    remove progress-mask (#3692)
